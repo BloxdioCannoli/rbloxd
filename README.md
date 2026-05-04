@@ -1,2 +1,2 @@
-# r-bloxd
-A collection of pages for r/Bloxd.
+# r/bloxd tools
+A collection of pages for r/bloxd.
